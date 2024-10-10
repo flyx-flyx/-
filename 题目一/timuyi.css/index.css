@@ -13,3 +13,15 @@ body{
     height: 100px;
     background-color: #fff;
 }
+
+.header .wrapper{
+    display: flex;
+    padding-top: 19px;
+
+
+}
+
+.logo a{
+    width: 195px;
+    height: 41px;
+}
